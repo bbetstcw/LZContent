@@ -1,7 +1,7 @@
 # Azure IaaS 用户手册 - 第一部分
 
-- [Azure IaaS 用户手册 - 第二部分](./azure-Iaas-user-manual-part2.html)
-- [Azure IaaS 用户手册 - 第三部分](./azure-Iaas-user-manual-part3.html)
+- [Azure IaaS 用户手册 - 第二部分](./azure-Iaas-user-manual-part2.md)
+- [Azure IaaS 用户手册 - 第三部分](./azure-Iaas-user-manual-part3.md)
 
 ##目录
 1.	[前言](#section_1)
